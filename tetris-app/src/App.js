@@ -1,5 +1,4 @@
 import "./App.css";
-import "./index.css";
 import GridSquare from "./components/gridsquare";
 
 function App() {
