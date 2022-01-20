@@ -1,5 +1,6 @@
 import "./App.css";
 import GridBoard from "./components/gridboard";
+import NextBlock from "./components/nextblock";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
         <h1>Tetris Redux</h1>
       </header>
       <GridBoard />
+      <NextBlock />
     </div>
   );
 }
