@@ -1,5 +1,5 @@
 import "./App.css";
-import GridSquare from "./components/gridsquare";
+import GridBoard from "./components/gridboard";
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <h1>Tetris Redux</h1>
       </header>
-      <GridSquare color="1" />
+      <GridBoard />
     </div>
   );
 }
