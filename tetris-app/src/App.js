@@ -3,6 +3,7 @@ import GridBoard from "./components/gridboard";
 import NextBlock from "./components/nextblock";
 import ScoreBoard from "./components/scoreboard";
 import Controls from "./components/controls";
+import MessagePopup from "./components/messagepopup";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <NextBlock />
       <ScoreBoard />
       <Controls />
+      <MessagePopup />
     </div>
   );
 }
