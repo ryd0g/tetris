@@ -14,8 +14,8 @@ export const gridDefault = () => {
     for (let col = 0; col < cols; col++) {
       array[row].push(0);
     }
-    return array;
   }
+  return array;
 };
 
 // Define block shapes and their rotations as arrays.
