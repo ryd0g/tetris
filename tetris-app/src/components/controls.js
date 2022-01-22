@@ -19,7 +19,7 @@ export default function Controls(props) {
           dispatch(moveLeft());
         }}
       >
-        Left
+        ◀
       </button>
       {/* right */}
       <button
@@ -32,7 +32,7 @@ export default function Controls(props) {
           dispatch(moveRight());
         }}
       >
-        Right
+        ▶
       </button>
       {/* rotate */}
       <button
@@ -45,7 +45,7 @@ export default function Controls(props) {
           dispatch(rotate());
         }}
       >
-        Rotate
+        🔄
       </button>
       {/* down */}
       <button
@@ -58,7 +58,7 @@ export default function Controls(props) {
           dispatch(moveDown());
         }}
       >
-        Down
+        🔽
       </button>
     </div>
   );
