@@ -1,6 +1,7 @@
 import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { pause, resume, restart } from "../actions";
+import "./scoreboard.css";
 
 export default function ScoreBoard(props) {
   const dispatch = useDispatch();
@@ -8,7 +9,7 @@ export default function ScoreBoard(props) {
   const { score, isRunning, gameOver } = game;
   return (
     <div className="score-board">
-      <div>Score:{score}</div>
+      <div className="score">Score: {score}</div>
       <button
         className="score-board-button"
         onClick={(e) => {
