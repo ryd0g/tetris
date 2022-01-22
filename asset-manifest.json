@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tetris/static/css/main.f9803b39.css",
-    "main.js": "/tetris/static/js/main.c6082221.js",
-    "static/js/787.af7c67f0.chunk.js": "/tetris/static/js/787.af7c67f0.chunk.js",
-    "index.html": "/tetris/index.html",
-    "main.f9803b39.css.map": "/tetris/static/css/main.f9803b39.css.map",
-    "main.c6082221.js.map": "/tetris/static/js/main.c6082221.js.map",
-    "787.af7c67f0.chunk.js.map": "/tetris/static/js/787.af7c67f0.chunk.js.map"
+    "main.css": "/tetris/tetris-app/static/css/main.f9803b39.css",
+    "main.js": "/tetris/tetris-app/static/js/main.31226d87.js",
+    "static/js/787.af7c67f0.chunk.js": "/tetris/tetris-app/static/js/787.af7c67f0.chunk.js",
+    "index.html": "/tetris/tetris-app/index.html",
+    "main.f9803b39.css.map": "/tetris/tetris-app/static/css/main.f9803b39.css.map",
+    "main.31226d87.js.map": "/tetris/tetris-app/static/js/main.31226d87.js.map",
+    "787.af7c67f0.chunk.js.map": "/tetris/tetris-app/static/js/787.af7c67f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9803b39.css",
-    "static/js/main.c6082221.js"
+    "static/js/main.31226d87.js"
   ]
 }
